@@ -1,8 +1,8 @@
-![logo](https://github.com/vinodtambe007/vinodtambe007/blob/main/man-using-laptop-night-top-view-web-banner-with-copy-space.jpg)
+![logo](https://github.com/Saurabh10Cr/Saurabh10Cr/blob/main/laptop-with-glowing-screen-table-dark-top-view-copy-space.jpg)
 <h1 align="center">Hi 👋, I'm Saurabh Wabale</h1>
 <h3 align="center">A passionate Automation Tester from India</h3>
 
-<img align="right" alt="coding" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
+<img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" >
 - 🔭 I’m currently working on **E-Commerce based platform**
 
 - 🌱 I’m currently learning **AI Based tool for Automation.**
